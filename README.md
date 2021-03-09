@@ -14,7 +14,7 @@
   * Email: zhangxf@dingdaoos.com 
 * 连瑞龙 
   * github: LianRuilong 
-  * Email: lianrl1@lenovo.com 
+  * Email: lianrl@dingdaoos.com 
 # 难度 
 容易 
 # 特征 
