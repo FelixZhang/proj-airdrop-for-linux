@@ -11,7 +11,7 @@
 # 项目导师 
 * 张晓飞 
   * github: FelixZhang 
-  * Email: zhangxf33@lenovo.com 
+  * Email: zhangxf@dingdaoos.com 
 * 连瑞龙 
   * github: LianRuilong 
   * Email: lianrl1@lenovo.com 
